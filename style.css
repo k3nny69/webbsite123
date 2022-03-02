@@ -1,7 +1,10 @@
+/* Website Styles */
+
 body {
   background-color: AliceBlue;
   color: DarkSlateBlue;
-  font-family: 'Noto Serif TC', Georgia, serif;
+  font-family: 'Noto Serif TC';
+  font-size: 14;
 }
 
 h1 {
