@@ -1,4 +1,8 @@
 body {
-  background-color: Crimson;
-  color: WhiteSmoke;
+  background-color: AliceBlue;
+  color: DarkSlateBlue;
+}
+
+h1 {
+  color: red;
 }
